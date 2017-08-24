@@ -1,0 +1,34 @@
+; silica force field for interacting with water
+
+[ moleculetype ]
+; molname       nrexcl
+RSIX              3
+
+[ atoms ]
+; id	at_type	res_nr	res_name     at_name  cg_nr   charge
+1       SIX       1       RSIX		SIX        0       2.1
+
+[ moleculetype ]
+; molname       nrexcl
+ROBX              3
+
+[ atoms ]
+; id	at_type	res_nr	res_name     at_name  cg_nr   charge
+1       OBX       1       ROBX		OBX        0       -1.05
+
+[ moleculetype ]
+; molname       nrexcl
+RONBX             3
+
+[ atoms ]
+; id	at_type	res_nr	res_name     at_name  cg_nr   charge
+1       ONBX       1      RONBX		ONBX       0       -0.95
+
+[ moleculetype ]
+; molname       nrexcl
+RHAX              3
+
+[ atoms ]
+; id	at_type	res_nr	res_name     at_name  cg_nr   charge
+1       HAX       1       RHAX		HAX        0       0.425
+
