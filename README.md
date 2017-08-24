@@ -5,4 +5,4 @@ Examples:
 - Cylindrical confinement:
 
 - Planar confinement: Trp-cage minprotein confined between two graphene sheets
-![trpcage-between-graphenes](./planar_confinement/trpcage-between-graphenes)
+![trpcage-between-graphenes](./planar_confinement/trpcage-between-graphenes.gif "Trp-cage confined between two graphene sheets")
